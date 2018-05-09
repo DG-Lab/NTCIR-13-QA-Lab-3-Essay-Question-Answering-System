@@ -5,4 +5,4 @@
 * [Paper PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-QALAB-JiangM.pdf)
 * [Poster PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-QALAB-JiangM-poster.pdf)
 * [Slides PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-QALAB-JiangM-slides.pdf)
-* [Jupyter Notebooks](notebooks/)
+* [Jupyter Notebooks](qalab3-essay-phase2/notebooks/)

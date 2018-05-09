@@ -1,0 +1,9 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/yamakawa</index>
+  <corpus>
+    <path>../_references/training_set/qalab3-ja-knowledgesource/qalab3-ja-knowledgesource/make-index-Yamakawa/yamakawa-Sekaishi-newxml-seg/</path>
+    <class>trectext</class>
+  </corpus>
+  <field><name>title</name></field>
+</parameters>

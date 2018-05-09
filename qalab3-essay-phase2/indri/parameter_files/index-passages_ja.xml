@@ -1,0 +1,8 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/passages_ja</index>
+  <corpus>
+    <path>../passages-ja-tokenized/</path>
+    <class>trectext</class>
+  </corpus>
+</parameters>

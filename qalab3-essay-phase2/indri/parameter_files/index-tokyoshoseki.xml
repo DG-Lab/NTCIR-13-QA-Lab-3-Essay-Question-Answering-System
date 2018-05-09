@@ -1,0 +1,9 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/tokyoshoseki</index>
+  <corpus>
+    <path>../_references/training_set/qalab3-ja-knowledgesource/qalab3-ja-knowledgesource/make-index-Tokyoshoseki/tokyoshoseki-newxml-seg/</path>
+    <class>trectext</class>
+  </corpus>
+  <field><name>title</name></field>
+</parameters>

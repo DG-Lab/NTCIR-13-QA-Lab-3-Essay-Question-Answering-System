@@ -1,0 +1,9 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/essays_en</index>
+  <stemmer><name>krovetz</name></stemmer>
+  <corpus>
+    <path>../essays-en-tokenized/</path>
+    <class>trectext</class>
+  </corpus>
+</parameters>

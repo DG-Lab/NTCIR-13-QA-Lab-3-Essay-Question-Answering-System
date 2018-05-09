@@ -1,0 +1,9 @@
+<parameters>
+  <memory>2G</memory>
+  <index>indexes/jawiki</index>
+  <corpus>
+    <path>../wiki-100M-newxml-seg/</path>
+    <class>trectext</class>
+  </corpus>
+  <field><name>title</name></field>
+</parameters>

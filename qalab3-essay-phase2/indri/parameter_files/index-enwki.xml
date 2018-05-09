@@ -1,0 +1,10 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/enwiki</index>
+  <stemmer><name>krovetz</name></stemmer>
+  <corpus>
+    <path>../enwiki_doc_by_id-tokenized/</path>
+    <class>trectext</class>
+  </corpus>
+  <field><name>title</name></field>
+</parameters>

@@ -1,0 +1,9 @@
+<parameters>
+  <memory>500m</memory>
+  <index>indexes/passages_en</index>
+  <stemmer><name>krovetz</name></stemmer>
+  <corpus>
+    <path>../passages-en-tokenized/</path>
+    <class>trectext</class>
+  </corpus>
+</parameters>
